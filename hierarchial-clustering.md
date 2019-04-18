@@ -35,5 +35,5 @@ I want you to explore the sklearn and scipy libraries, plus the information prov
 - To get the top 3 clusters, use `fcluster`
 - Compare your top 3 clusters to the actual data (col 1) and see how close it is
 
-### Fin
+#### Fin
 
